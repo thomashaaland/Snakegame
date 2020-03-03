@@ -1,2 +1,2 @@
-# snakegame
+# Snakegame
 A simple game of snakes. 
